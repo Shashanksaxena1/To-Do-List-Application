@@ -1,4 +1,5 @@
 Project Description:
+
 The To-Do List Application is a web-based task management tool designed to help users organize and keep track of their daily tasks and activities. Users can add, edit, and delete tasks, set priorities, and mark tasks as completed. The application provides a clean and intuitive user interface to enhance the user experience in managing their to-do lists efficiently.
 
 Skills Used:
